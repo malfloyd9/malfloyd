@@ -1,0 +1,11 @@
+# Site
+personal-site/node_modules/
+personal-site/dist/
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
